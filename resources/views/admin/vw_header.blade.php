@@ -1,6 +1,6 @@
-@extends('index')
+@extends('vw_index')
 	@section('header')
-	<section id="container">
+	<section>
 		<!-- header start -->
 		<header class="header black-bg">
 			 <div class="sidebar-toggle-box">
